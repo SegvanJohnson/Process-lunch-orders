@@ -21,3 +21,6 @@ Bread sticks
 6.	Code an event handler that calculates and displays the subtotal, tax, and order total when the user clicks the Place Order button. The subtotal is the cost of the main course plus the cost of the add-ons. The tax is 7.75% of the subtotal. And the order total is the subtotal plus the tax. Test the application to be sure this works correctly.
 7.	Code an event handler that clears the order totals when the user checks or unchecks an add-on. Then, test the application one more time.
 
+
+#  Email me if you have any question
+# SegvanJohnson@gmail.com
